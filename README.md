@@ -25,8 +25,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click the link [DSI-1113 Ames Regression Challenge](https://www.kaggle.com/t/177bc8cfe89b48d59ee4360ed9b56680) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-1113 Ames Regression Challenge](https://www.kaggle.com/competitions/1113-ames-competition)
+2. **IMPORTANT**: Click the link [DSB-318 Ames Regression Challenge](https://www.kaggle.com/t/2b86b37bfd3e4fcd82dea5c203919bbc) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSB-318 Ames Regression Challenge](https://www.kaggle.com/competitions/318-ames-competition)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -48,15 +48,13 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by **9 AM Pacific, Friday, December 15**.
-
-The last day for the Kaggle competition will be **11:59 PM Pacific, Thursday, December 14**.
+Materials must be submitted by **9 AM Mountain Time, Friday, April 19**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSI-1113 Regression Challenge](https://www.kaggle.com/competitions/1113-ames-competition) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/1113-ames-competition/leaderboard)" tab.
+- At least one successful prediction submission on [DSB-318 Regression Challenge](https://www.kaggle.com/competitions/318-ames-competition) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/318-ames-competition/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
